@@ -1,2 +1,1 @@
-An 11 year old's website. don't even try. I dont know just here's the link
-eternalxlks.github.io
+An 11 year old's website. Don't even try. I don't know. Just, here's the link: <https://eternalxlks.github.io>.
