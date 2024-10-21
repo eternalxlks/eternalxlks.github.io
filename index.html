@@ -22,6 +22,19 @@
   </head>
   <body>
     <h1>Hello!</h1>
+
+    <!-- Source: https://github.com/Brunozhon/Brunozhon.github.io/blob/main/index.html#L27-L35 -->
+    <pre id="welcome">
+      <noscript>
+Please enable JavaScript.
+(•_•)
+( •_•)>⌐■-■
+(⌐■_■)
+Anyways, welcome to my website.
+      </noscript>
+    </pre>
+
+    
     <p>Hello, and welcome to my website this is the website of an 11 year old so don't expect too much.</p>
     <h2>About Me</h2>
     <p>My name is Aadhav Guruswamy and I am 11 years old. I know 5 languages that include: Tamil, English, Spanish, HTML, and JavaScript.</p>
@@ -35,5 +48,33 @@
     <p><code>file:///home/chronos/u-7ce57aaa5ff512f11b03bd3e13f962af77a938b6/MyFiles/Pong/PongCode.txt</code></p>
     
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script defer>
+      // Source: https://github.com/Brunozhon/Brunozhon.github.io/blob/main/index.html#L66-L90
+      //
+      // If you check the original branch at https://github.com/Brunozhon/Brunozhon.github.io/blame/master/index.html#L65-L89, you will discover this code is actually two years old!
+      var asciiArt = [
+        `|‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾|
+| WELCOME TO MY WEBSITE! |
+|________________________|
+(\\__/) || 
+(•ㅅ•) || 
+/    づ`,
+        `Welcome to — oops, sorry…
+(•_•)
+( •_•)>⌐■-■
+(⌐■_■)
+Now, welcome to my website!`,
+        `(•_•)
+<)   )╯WELCOME
+ /    \\ 
+  (•_•)
+ \\(   (> TO MY
+  /    \\
+ (•_•)
+<)   )╯WEBSITE
+ /    \\`
+      ]
+      document.getElementById("welcome").innerHTML = asciiArt[Math.floor(Math.random() * 3)]
+    </script>
   </body>
 </html>
