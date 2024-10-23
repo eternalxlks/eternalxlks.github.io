@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of [eternalxlks.github.io](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, BLOCKED , ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of [eternalxlks.github.io](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -38,7 +38,7 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
  * Inappropriate photography or recording.
  * Inappropriate physical contact. You should have someone's consent before touching them.
- * BLOCKED for reason: Inapropriate line that is not for young children's eyes. (brunozhon made this line and A3+++ blocked it)
+ * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
  * Deliberate intimidation, stalking or following (online or in person).
  * Advocating for, or encouraging, any of the above behavior.
  * Sustained disruption of community events, including talks and presentations.
