@@ -1,1 +1,1 @@
-Hello! I am eternalxlks or A3+++. You will find out more about me in my website. Nobody can change the code and distribute this as it is copyrighted and you need my permission to do this. Here's the link:  <https://eternalxlks.github.io>.
+Hello! I am eternalxlks or A3+++. You will find out more about me in my website. Here's the link:  <https://eternalxlks.github.io>.
