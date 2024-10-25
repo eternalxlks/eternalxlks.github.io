@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-A primary goal of [eternalxlks.github.io](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of [eternalxlks.github.io] is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -38,7 +38,6 @@ The following behaviors are considered harassment and are unacceptable within ou
  * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
  * Inappropriate photography or recording.
  * Inappropriate physical contact. You should have someone's consent before touching them.
- * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
  * Deliberate intimidation, stalking or following (online or in person).
  * Advocating for, or encouraging, any of the above behavior.
  * Sustained disruption of community events, including talks and presentations.
@@ -65,7 +64,7 @@ Additionally, community organizers are available to help community members engag
 
 ## 8. Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify eternalxlks with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [Policy](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify eternalxlks with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [Policy]
 
 
 
@@ -77,18 +76,16 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ## 10. Contact info
 
-[eternalxlks@dontemailme.com](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
+[jotarokujo0539@gmail.com]
 ## 11. License and attribution
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](https://www.youtube.com/watch?v=dQw4w9WgXcQ) under a [Creative Commons Attribution-ShareAlike license](https://www.youtube.com/watch?v=dQw4w9WgXcQ). 
+The Citizen Code of Conduct is distributed by [Stumptown Syndicatel under a [Creative Commons Attribution-ShareAlike license]
 
-Portions of text derived from the [Django Code of Conduct](https://www.youtube.com/watch?v=dQw4w9WgXcQ) and the [Geek Feminism Anti-Harassment Policy](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
-
+Portions of text derived from the [Django Code of Conduct] and the [Geek Feminism Anti-Harassment Policy]
 _Revision 2.3. Posted 6 March 2017._
 
 _Revision 2.2. Posted 4 February 2016._
 
 _Revision 2.1. Posted 23 June 2014._
 
-_Revision 2.0, adopted by the [Stumptown Syndicate](https://www.youtube.com/watch?v=dQw4w9WgXcQ) board on 10 January 2013. Posted 17 March 2013._
+_Revision 2.0, adopted by the [Stumptown Syndicate] board on 10 January 2013. Posted 17 March 2013._
