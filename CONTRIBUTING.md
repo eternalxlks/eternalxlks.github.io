@@ -2,7 +2,7 @@
 Hello! If you want to contribute something please look at this:
 
 # Pull Requests
-1. Please DON'T make a pull request but yes issues!
+1. Please make pull requests!
 2. Don't fake pull requests as is *clears throat* rickrolls and other items that aren't helpful
 3. Don't make a pull request unless it is necessary
 
