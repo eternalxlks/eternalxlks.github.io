@@ -1,3 +1,4 @@
-# Beep Boop Beep Bap
-User-agent: GPTBot
-Disallow: /
+# Beep boop. Boop!
+User-agent: *
+Allow: /
+Sitemap: https://infinitexlks.github.io/sitemap.txt
